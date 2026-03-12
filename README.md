@@ -1,7 +1,28 @@
 Überflutungsflächen-nach-Risiko-in-NRW-Deutschland
 Überflutungsrisikozonen Deutschland – Zusammenfassung
 
- 
+Flood Risk Zones in North Rhine-Westphalia (Germany) – GIS Web Mapping Project
+
+This project presents flood risk zones across the state of North Rhine-Westphalia through an interactive GIS web mapping application.
+
+The analysis was developed using ArcGIS Pro, where the German Flood Risk Zones dataset from the Bundesanstalt für Gewässerkunde (BfG) was processed. The data was downloaded as a File Geodatabase, imported into ArcGIS Pro, projected to Web Mercator (WGS 84 – EPSG:3857), and published as a Feature Service on ArcGIS Online.
+
+An interactive web mapping application was then developed and deployed using GitHub Pages, allowing users to explore flood risk zones across the entire region.
+
+The dataset supports the EU Flood Risk Management Directive through the national water reporting portal WasserBLIcK.
+
+🌍 Web Map (GitHub Pages):
+https://mohamed-aitabdelmalik.github.io/Uberflutungsflachen-nach-Risiko-in-NRW-Deutschland-/
+
+🗺 ArcGIS Online Project:
+https://ucd-cpe.maps.arcgis.com/home/item.html?id=f0ce21dbb53f4453a01cd4cf3e11ee0e
+
+Data Source: Flood Risk Zones Germany – BfG
+Tools: ArcGIS Pro • ArcGIS Online • GitHub Pages
+Supported by: Esri
+
+![Layoffffut](https://github.com/user-attachments/assets/5c090652-0bd4-4abe-9416-dddd71a876f2)
+
 
 Inhalt: Feature Service & Web Map mit Überflutungsrisikozonen in Überflutungsrisikozonen in Nordrhein-Westfalen Deutschland.
 
