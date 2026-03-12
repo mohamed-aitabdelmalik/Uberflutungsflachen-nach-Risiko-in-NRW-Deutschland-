@@ -14,4 +14,6 @@ Import in ArcGIS Pro
 Projektion ins WebMercator WGS84 (3857) Koordinatensystem
 Hosting als Feature Service auf ArcGIS Online
 Datenstand: Letzte Bearbeitung 2024
+
+
 <img width="2480" height="1748" alt="image" src="https://github.com/user-attachments/assets/2e7335f3-14a0-4ae2-ab23-c1bf2b84ac12" />
