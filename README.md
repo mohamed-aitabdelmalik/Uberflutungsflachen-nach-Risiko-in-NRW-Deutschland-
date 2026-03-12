@@ -3,6 +3,8 @@
 
 Flood Risk Zones in North Rhine-Westphalia (Germany) – GIS Web Mapping Project
 
+<img width="765" height="431" alt="image" src="https://github.com/user-attachments/assets/a83c3379-6ee0-43f2-b209-18ecbd7e42b3" />
+
 This project presents flood risk zones across the state of North Rhine-Westphalia through an interactive GIS web mapping application.
 
 The analysis was developed using ArcGIS Pro, where the German Flood Risk Zones dataset from the Bundesanstalt für Gewässerkunde (BfG) was processed. The data was downloaded as a File Geodatabase, imported into ArcGIS Pro, projected to Web Mercator (WGS 84 – EPSG:3857), and published as a Feature Service on ArcGIS Online.
